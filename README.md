@@ -1,6 +1,6 @@
 ![CraveSpot](https://raw.githubusercontent.com/theryan722/CraveSpot/master/logo for dev.png)
 
-HackNY 2016 Submission
+<p text-align="center">HackNY 2016 Submission
 
 # What is it?
 The One stop solution to solving THE problem of the millennial age, "Where should we eat"?
