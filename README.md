@@ -5,7 +5,7 @@
 
 
 # What is it?
-![CraveSpot](https://raw.githubusercontent.com/theryan722/CraveSpot/master/logo for dev.png)
+![CraveSpot](https://raw.githubusercontent.com/theryan722/CraveSpot/master/logo for dev.png) <br>
 The One stop solution to solving THE problem of the millennial age, "Where should we eat"?
 
 # Awards Won
