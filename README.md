@@ -15,7 +15,7 @@ Best PHP Hack
 http://devpost.com/software/cravespot-qknhbd
 
 # Website
-Visit the website [here](https://iscreamforuby.github.io/Crave-Spot/)
+Visit the website [here](https://rubydong.github.io/Crave-Spot/)
 
 # Download
 Visit the [releases](https://github.com/theryan722/CraveSpot/releases) page to download.
