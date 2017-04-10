@@ -3,9 +3,10 @@
 
 
 # What is it?
+<p align="center">
 ![craveSpot](https://raw.githubusercontent.com/theryan722/CraveSpot/master/logo%20for%20dev.png)
-
 The One stop solution to solving THE problem of the millennial age, "Where should we eat"?
+</p>
 
 # Awards Won
 Best PHP Hack
