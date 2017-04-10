@@ -1,6 +1,4 @@
-#HackNY 2016 Submission
-
-<p align="center">
+# HackNY 2016 Submission
 ![crave](https://cloud.githubusercontent.com/assets/14133821/16435801/9d7dcbc4-3d66-11e6-8c06-a8245f404bea.png)
 
 
